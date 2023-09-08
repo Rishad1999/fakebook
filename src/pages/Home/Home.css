@@ -1,0 +1,4 @@
+.bottonContainer{
+    display: flex; /*all ordered in horizontal*/
+    width: 100%;
+}

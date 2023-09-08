@@ -1,0 +1,28 @@
+.rightPlaneBox{
+    flex: 3;
+
+}
+.rightPlaneContainer{
+    padding: 20px 20px 0 0;
+
+}
+adContainer{
+    margin-top: 10px;
+    font-family: 'Open Sans', 'sans-serif';
+}
+.sponsored{
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+
+}
+.adImage{
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 5px;
+    width: 98%;
+}
+.birthdayImg{
+    align-items: center;
+    margin: 10px 20px 10px 80px;
+}

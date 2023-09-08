@@ -1,0 +1,92 @@
+.postImg{
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-top: 10px;
+}
+.post{
+    font-family: sans-serif;
+    border-radius: 10px;
+    margin-left: 8px;
+    box-shadow: 0px -5px 87px 6px rgba(0,0,0,0.55);
+    -webkit-box-shadow: 0px -5px 87px 6px rgba(0,0,0,0.55);
+    -moz-box-shadow: 0px -5px 87px 6px rgba(0,0,0,0.55);
+}
+.postTop{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    margin-left: 5px;
+
+}
+.postCenter{
+    margin: 20px 0;
+}
+.postCaption{
+    margin-top: 20px;
+    margin-left: 10px;
+    
+}
+
+
+.postUserName{
+    font-size: 15px;
+    font-weight: 500;
+    margin: 0 10px;
+}
+.postTime{
+    font-size: 10px;
+    margin-top: 7px;
+
+}
+
+.postedImg{
+    width: 98%;
+    background-size: cover;
+    margin: 5px;
+    margin: 15px 0;
+    margin-left: 10px;
+    border-radius: 10px;
+
+}
+
+.reactionIcon{
+    width: 24px;
+    height: 24px;
+    margin-left: 1px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.postBottom{
+    width: 98%;
+    align-items: center;
+    display: flex;
+    margin-left: 5px;
+    justify-content: space-between;
+}
+.likeCount{
+    margin-left: 20px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.postBottomLeft{
+    align-items: center;
+    display: flex;
+}
+.commentCount{
+    margin-right: 10px;
+    border-bottom: 1px dashed gray;
+    cursor: pointer;
+}
+
+.reply{
+    margin: 2px;
+    cursor: pointer;
+}
+.share{
+    cursor: pointer;
+}
+
+
